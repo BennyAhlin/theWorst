@@ -27,3 +27,9 @@ string input = Console.ReadLine();
 Console.Clear();
 Console.WriteLine(input);
 
+
+string temp = string.Empty;
+foreach (var item in temp)
+{
+    Console.WriteLine(item);
+}
