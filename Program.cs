@@ -12,7 +12,7 @@ Console.WriteLine("Hello, World!");
 Intro intro = new Intro();
 intro.GameIntro();
 
-var x = 10;
+var x = 10; //<------------ nu funkar den!
 while (x != 0)
 {
     Console.WriteLine("arvid är en snäll pöjk");
