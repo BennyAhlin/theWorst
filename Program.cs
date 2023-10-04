@@ -24,3 +24,9 @@ for (int i = 1; i <= 10; i++)
 
 
 
+
+string temp = string.Empty;
+foreach (var item in temp)
+{
+    Console.WriteLine(item);
+}
