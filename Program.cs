@@ -20,6 +20,12 @@ while (x != 0)
 }
 
 
+Console.WriteLine("va heder du");
+string name = Console.ReadLine();
+Console.WriteLine("hej " + name);
+
+
+
 Console.WriteLine("Line 10 starts here!");
 
 for (int i = 1; i <= 10; i++)
