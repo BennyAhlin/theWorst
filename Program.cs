@@ -28,8 +28,8 @@ Console.Clear();
 Console.WriteLine(input);
 
 
-string temp = string.Empty;
-foreach (var item in temp)
+//string temp = string.Empty;
+foreach (var item in input)
 {
-    Console.WriteLine(item);
+    Console.WriteLine(input);
 }
