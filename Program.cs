@@ -23,4 +23,7 @@ for (int i = 1; i <= 10; i++)
 }
 
 
+string input = Console.ReadLine();
+Console.Clear();
+Console.WriteLine(input);
 
